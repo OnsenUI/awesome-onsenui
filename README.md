@@ -53,8 +53,6 @@ A curated list of awesome Onsen UI resources.
 * [vue-onsenui-kitchensink](https://github.com/frandiox/vue-onsenui-kitchensink) - Official kitchensink example of `vue-onsenui`.
 <!-- Screenshot here -->
 
-----
-
 ## Community Packages
 
 ### AngularJS
@@ -77,8 +75,6 @@ A curated list of awesome Onsen UI resources.
 * [ember-onsenui](https://github.com/sukima/ember-onsenui) - Ember.js integration of Onsen UI.
 * [aurelia-onsenui](https://github.com/sidloki/aurelia-onsenui) - Aurelia integration of Onsen UI.
 * [aurelia-onsenui-kitchensink](https://github.com/sidloki/aurelia-onsenui-kitchensink) - Kichensink example of `aurelia-onsenui`.
-
-----
 
 ## Tutorials / Guides
 
@@ -135,15 +131,11 @@ A curated list of awesome Onsen UI resources.
 * []()
 * []()
 
-----
-
 ## Tools
 
 * [Monaca](https://monaca.io/) - Build and test Cordova apps remotely, from anywhere: (1) [Cloud-based IDE](https://monaca.io/cloud.html), (2) [Desktop integration](https://monaca.io/localkit.html) and (3) [CLI](https://monaca.io/cli.html). Maintained by Onsen UI Team and fully provides Onsen UI templates.
 * ~~[Onsen UI Theme Roller](https://components.onsen.io/)~~ [Discontinued]
 * [Onsen UI CSS Components Previewer]() - Bundled in `onsenui`.
-
-----
 
 ## Resources
 
@@ -160,10 +152,14 @@ A curated list of awesome Onsen UI resources.
 * [Gitter](https://gitter.im/OnsenUI/OnsenUI) - Official chat.
 * [Stack Overflow]()
 
+### Newsletters
+
+* [Onsen UI Newsletter](https://onsen.io/) - Subscription form is located at the bottom of Onsen UI website.
+
 ### Websites
 
 * [Onsen UI Website](https://onsen.io/) - Official website.
-* [Onsen UI Website](https://onsen.io/) - Official website.
+* [Onsen UI Blog](https://onsen.io/blog/) - Official blog.
 * [Onsen UI Playground](https://tutorial.onsen.io/) - Official interactive examples of Onsen UI.
 
 ### Twitter
@@ -174,13 +170,7 @@ A curated list of awesome Onsen UI resources.
 * [@anatoo (Mitsunori Kubota)](https://twitter.com/anatoo) - Lead engineer & Designer.
 * [@n_matagawa (Naoki Matagawa)](https://twitter.com/n_matagawa) - Engineer.
 
-
-
-----
-
 ## Contributing
-
-----
 
 ## License
 
