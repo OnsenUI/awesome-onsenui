@@ -52,6 +52,8 @@ A curated list of awesome Onsen UI resources.
 
 * [vue-onsenui-kitchensink](https://github.com/frandiox/vue-onsenui-kitchensink) - Official kitchensink example of `vue-onsenui`.
 <!-- Screenshot here -->
+* [Material select dialog with `v-ons-alert-dialog`](https://github.com/OnsenUI/OnsenUI/issues/2137)
+<!-- Screenshot here -->
 
 ## Community Packages
 
