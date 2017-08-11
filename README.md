@@ -39,6 +39,7 @@ A curated list of awesome Onsen UI resources.
 ### Angular
 
 * [angular2-onsenui-kitchensink](https://github.com/OnsenUI/angular2-onsenui-kitchensink) <img src="https://onsen.io/images/common/icn_angular2_4c.svg" width="20" /> - Official kitchensink example of `angular2-onsenui`.
+* [ngx-onsenui-ngrx-todo](https://github.com/puku0x/ngx-onsenui-ngrx-todo) <img src="https://onsen.io/images/common/icn_angular2_4c.svg" width="20" /> - Onsen UI + Angular + ngrx + PhoneGap.
 <!-- Screenshot here -->
 
 ### React
@@ -62,6 +63,7 @@ A curated list of awesome Onsen UI resources.
 ### Angular
 
 * [ngx-onsenui-phonegap-starter](https://github.com/puku0x/ngx-onsenui-phonegap-starter) <img src="https://onsen.io/images/common/icn_angular2_4c.svg" width="20" /> - Onsen UI + Angular + PhoneGap. [Japanese]
+
 
 ### React
 
