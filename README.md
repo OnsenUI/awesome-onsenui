@@ -75,7 +75,7 @@ If you would like us to promote your awesome Onsen UI content, [open an issue ti
 
 ### AngularJS
 
-* [OnsenUI-YouTube](https://github.com/frandiox/OnsenUI-YouTube) <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> - How to create an app with YouTube API.
+* [OnsenUI-YouTube](https://github.com/frandiox/OnsenUI-YouTube) <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> - Example app using YouTube API.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/examples-onsenui-youtube-jukebox-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
@@ -86,7 +86,7 @@ If you would like us to promote your awesome Onsen UI content, [open an issue ti
 
 * [angular2-onsenui-kitchensink](https://github.com/OnsenUI/angular2-onsenui-kitchensink) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Official kitchensink example of `angular2-onsenui`.
 
-* [angular2-onsenui-pokedex](https://github.com/argelius/angular2-onsenui-pokedex) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - How to create an app with Pokédex API.
+* [angular2-onsenui-pokedex](https://github.com/argelius/angular2-onsenui-pokedex) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Example app using Pokédex API.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/examples-pokedex-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
