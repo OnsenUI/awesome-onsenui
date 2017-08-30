@@ -124,6 +124,7 @@ Excluded (Reason: The example is no longer working)
 ### Angular
 
 * [ngx-onsenui-phonegap-starter](https://github.com/puku0x/ngx-onsenui-phonegap-starter) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Onsen UI + Angular + PhoneGap. [Japanese]
+* [ngx-onsenui-pwa](https://github.com/puku0x/ngx-onsenui-pwa) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - PWA with ngx-onsenui.
 
 
 ### React
