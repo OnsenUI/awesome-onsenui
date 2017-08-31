@@ -126,7 +126,7 @@ Excluded (Reason: The example is no longer working)
 * [ngx-onsenui-phonegap-starter](https://github.com/puku0x/ngx-onsenui-phonegap-starter) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Onsen UI + Angular + PhoneGap. [Japanese]
 * [ngx-onsenui-pwa](https://github.com/puku0x/ngx-onsenui-pwa) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - PWA with ngx-onsenui.
 * [ngx-onsenui on Plunker](https://plnkr.co/edit/Ts1aLXQ1rLMtCAo9sWUI?p=preview) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Template for [Plunker](https://plnkr.co/), an Online Code Editor.
-* [ngx-onsenui on StackBlitz](https://stackblitz.com/edit/ngx-onsenui-sample) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Template for [StackBlitz](https://stackblitz.com/edit/ngx-onsenui-sample), an Online VSCode IDE.
+* [ngx-onsenui on StackBlitz](https://stackblitz.com/edit/ngx-onsenui-sample) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Template for [StackBlitz](https://stackblitz.com/), an Online VSCode IDE.
 
 ### React
 
