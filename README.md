@@ -251,7 +251,7 @@ Excluded (Reason: Outdated. This article explains Custom Elements v0)
 
 * [Monaca](https://monaca.io/) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Build and test Cordova apps remotely, from anywhere. Maintained by Onsen UI Team.
 
-* [Monaca Cloud IDE](https://monaca.io/cloud.html) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Cloud-based IDE.
+* [Monaca Cloud IDE](https://monaca.io/cloud.html) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> - Cloud-based IDE.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/monaca-cloud-ide.png" width="800" height="450" />
 </p>
