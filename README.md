@@ -113,7 +113,16 @@ Excluded (Reason: The example is no longer working)
 ### Vue
 
 * [vue-onsenui-kitchensink](https://github.com/OnsenUI/vue-onsenui-kitchensink) <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Official kitchensink example of `vue-onsenui`.
+
 * [Material select dialog with `v-ons-alert-dialog`](https://github.com/OnsenUI/OnsenUI/issues/2137) <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" />
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/4376611/28995211-798f79c0-79b9-11e7-8e82-50208fd8214c.png" width="250" height="444" />
+</p>
+
+* [Circular Reveal for Search Box](https://www.uplabs.com/posts/circular-reveal-for-search-box-hybrid-apps) <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" />
+<p align="center">
+    <img src="https://onsenui.github.io/art/screenshots/circular-reveal.gif" width="250" height="444" />
+</p>
 
 ## Community Packages
 
