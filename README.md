@@ -6,7 +6,7 @@ A curated list of awesome [Onsen UI](https://github.com/OnsenUI/OnsenUI) resourc
 
 Are you planning to write an article, create a package, or even write the app using Onsen UI?
 
-If you would like us to promote your awesome Onsen UI content, [open an issue ticket](https://github.com/OnsenUI/awesome-onsenui/issues) with a URL and short description of your content. Pull request are also welcome!
+If you would like us to add your awesome Onsen UI content, [open an issue ticket](https://github.com/OnsenUI/awesome-onsenui/issues) with a URL and short description of your content. Pull request are also welcome!
 
 ## Table of Contents
 
