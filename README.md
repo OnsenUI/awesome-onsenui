@@ -119,9 +119,14 @@ Excluded (Reason: The example is no longer working)
     <img src="https://user-images.githubusercontent.com/4376611/28995211-798f79c0-79b9-11e7-8e82-50208fd8214c.png" width="250" height="444" />
 </p>
 
-* [Circular Reveal for Search Box](https://www.uplabs.com/posts/circular-reveal-for-search-box-hybrid-apps) <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" />
+* [Circular Reveal for Search Box](https://www.uplabs.com/posts/circular-reveal-for-search-box-hybrid-apps) <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Circular reveal effect made with `<v-ons-ripple>`.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/circular-reveal.gif" width="250" height="444" />
+</p>
+
+* [Carousel with indicator and colors](https://www.uplabs.com/posts/onsenui-carousel-with-indicator-and-colors) <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Made with `<v-ons-carousel>`.
+<p align="center">
+    <img src="https://onsenui.github.io/art/screenshots/carousel-with-indicator-and-colors.gif" width="250" height="444" />
 </p>
 
 ## Community Packages
