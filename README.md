@@ -31,9 +31,9 @@ If you would like us to add your awesome Onsen UI content, [open an issue ticket
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
-    <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-3.png" width="250" height="444" /><br>
+    <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-2.png" width="250" height="444" /><br>
     <img src="https://placehold.it/30/ffffff/ffffff/" /><br>
-    <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-2.png" width="250" height="444" />
+    <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-3.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
     <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-4.png" width="250" height="444" />
 </p>
