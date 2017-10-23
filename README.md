@@ -84,7 +84,7 @@ If you would like us to add your awesome Onsen UI content, [open an issue ticket
 
 ### Angular
 
-* [angular2-onsenui-kitchensink](https://github.com/OnsenUI/angular2-onsenui-kitchensink) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Official kitchensink example of `angular2-onsenui`.
+* [ngx-onsenui-kitchensink](https://github.com/puku0x/ngx-onsenui-kitchensink) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Kitchensink example of `ngx-onsenui` by [puku0x](https://github.com/puku0x).
 
 * [angular2-onsenui-pokedex](https://github.com/argelius/angular2-onsenui-pokedex) <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> - Example app using Pokédex API.
 <p align="center">
