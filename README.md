@@ -129,6 +129,11 @@ Excluded (Reason: The example is no longer working)
     <img src="https://onsenui.github.io/art/screenshots/carousel-with-indicator-and-colors.gif" width="250" height="444" />
 </p>
 
+* [vue-onsenui-cordova-iphonex](https://github.com/asial-matagawa/vue-onsenui-cordova-iphonex) <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - An example Cordova project supporting iPhone X using Onsen UI
+<p align="center">
+    <img src="https://raw.githubusercontent.com/asial-matagawa/vue-onsenui-cordova-iphonex/master/screenshot.gif" width="480" height="252" />
+</p>
+
 ## Community Packages
 
 ### AngularJS
