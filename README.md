@@ -305,7 +305,6 @@ Not Ready
 
 * [@Onsen_UI](https://twitter.com/Onsen_UI) - Official Twitter account.
 * [@massie (Masa Tanaka)](https://twitter.com/massie) - Head of product management for Onsen UI.
-* [@frandiox (Fran Dios)](https://twitter.com/frandiox) - Lead engineer.
 * [@n_matagawa (Naoki Matagawa)](https://twitter.com/n_matagawa) - Engineer.
 
 <!--
