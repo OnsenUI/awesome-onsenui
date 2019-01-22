@@ -27,7 +27,7 @@ If you would like us to add your awesome Onsen UI content, [open an issue ticket
 <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> = for **React** users  
 <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> = for **Vue** users
 
-* [Onsen UI Kichensink](https://tutorial.onsen.io/?framework=vanilla&category=common%20patterns&module=kitchensink) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Official kitchensink example of `onsenui`.
+* [Onsen UI Kichensink](https://onsen.io/playground/?framework=vanilla&category=common%20patterns&module=kitchensink) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Official kitchensink example of `onsenui`.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
@@ -38,28 +38,28 @@ If you would like us to add your awesome Onsen UI content, [open an issue ticket
     <img src="https://onsenui.github.io/art/screenshots/kitchensink-js-4.png" width="250" height="444" />
 </p>
 
-* [Twitter Example](https://tutorial.onsen.io/?framework=vanilla&category=user%20interface%20tutorials&module=twitter_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Twitter-like template.
+* [Twitter Example](https://onsen.io/playground/?framework=vanilla&category=user%20interface%20tutorials&module=twitter_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Twitter-like template.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/examples-twitter-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
     <img src="https://onsenui.github.io/art/screenshots/examples-twitter-2.png" width="250" height="444" />
 </p>
 
-* [Spotify Example](https://tutorial.onsen.io/?framework=vanilla&category=user%20interface%20tutorials&module=spotify_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Spotify-like template.
+* [Spotify Example](https://onsen.io/playground/?framework=vanilla&category=user%20interface%20tutorials&module=spotify_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Spotify-like template.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/examples-spotify-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
     <img src="https://onsenui.github.io/art/screenshots/examples-spotify-2.png" width="250" height="444" />
 </p>
 
-* [Instagram Example](https://tutorial.onsen.io/?framework=vanilla&category=user%20interface%20tutorials&module=instagram_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Instagram-like template.
+* [Instagram Example](https://onsen.io/playground/?framework=vanilla&category=user%20interface%20tutorials&module=instagram_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Instagram-like template.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/examples-instagram-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
     <img src="https://onsenui.github.io/art/screenshots/examples-instagram-2.png" width="250" height="444" />
 </p>
 
-* [Netflix Example](https://tutorial.onsen.io/?framework=vanilla&category=user%20interface%20tutorials&module=netflix_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Netflix-like template.
+* [Netflix Example](https://onsen.io/playground/?framework=vanilla&category=user%20interface%20tutorials&module=netflix_model) <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Netflix-like template.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/examples-netflix-1.png" width="250" height="444" />
     <img src="https://placehold.it/30/ffffff/ffffff/" />
@@ -263,7 +263,7 @@ Excluded (Reason: Outdated. This article explains Custom Elements v0)
 
 ## Tools
 
-* [Onsen UI Playground](https://tutorial.onsen.io/)  <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Official interactive examples of Onsen UI.
+* [Onsen UI Playground](https://onsen.io/playground/)  <img src="https://onsenui.github.io/art/icons/js.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angularjs.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/angular.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/react.svg" width="20" /> <img src="https://onsenui.github.io/art/icons/vue.svg" width="20" /> - Official interactive examples of Onsen UI.
 <p align="center">
     <img src="https://onsenui.github.io/art/screenshots/onsenui-playground.png" width="800" height="450" />
 </p>
